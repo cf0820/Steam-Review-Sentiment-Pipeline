@@ -75,5 +75,5 @@ Visualizes trending keywords in positive vs. negative reviews, identifying core 
     pip install -r requirements.txt
     ```
 3.  Run the notebook/script:
-    * Open `Steam_User_Review_SA_Portfolio_Project.ipynb` in Jupyter or Google Colab.
+    * Open `Steam-Review-Sentiment-Pipeline.ipynb` in Jupyter or Google Colab.
     * Run all cells to fetch live data for Overwatch 2 (AppID: 2357570) and classify sentiment.
