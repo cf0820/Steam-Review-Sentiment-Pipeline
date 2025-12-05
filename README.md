@@ -44,14 +44,17 @@ While this repository demonstrates a live API fetch for real-time analysis, the 
 
 **1. Model Performance (Confusion Matrix)**
 Validates the model's precision in identifying negative sentiment; crucial for QA teams identifying bugs or UX issues.
+
 ![Confusion Matrix](confusion_matrix.png)
 
 **2. Discriminative Power (ROC Curve)**
 Demonstrates strong separability (AUC = 0.899) between positive and negative player experiences.
+
 ![ROC Curve](roc_curve.png)
 
 **3. Semantic Analysis (Word Cloud)**
 Visualizes trending keywords in positive vs. negative reviews, identifying core drivers of player satisfaction.
+
 ![Word Cloud](wordcloud.png)
 
 ---
