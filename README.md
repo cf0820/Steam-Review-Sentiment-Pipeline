@@ -43,7 +43,7 @@ While this repository demonstrates a live API fetch for real-time analysis, the 
 ### **Key Metrics & Visualizations**
 
 **1. Model Performance (Confusion Matrix)**
-Validates the model's precision in identifying negative sentiment—crucial for QA teams identifying critical bugs or UX issues.
+Validates the model's precision in identifying negative sentiment; crucial for QA teams identifying bugs or UX issues.
 ![Confusion Matrix](confusion_matrix.png)
 
 **2. Discriminative Power (ROC Curve)**
