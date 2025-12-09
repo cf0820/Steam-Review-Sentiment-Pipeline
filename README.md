@@ -60,7 +60,7 @@ Visualizes trending keywords in positive vs. negative reviews, identifying core 
 ---
 
 ### **Technologies Used**
-* **Language:** Python 3.x
+* **Language:** Python 3
 * **ETL/Data Manipulation:** Pandas, NumPy, Requests (API)
 * **ML/AI Frameworks:** PyTorch, Hugging Face Transformers, Scikit-Learn
 * **Visualization:** Matplotlib, Seaborn
